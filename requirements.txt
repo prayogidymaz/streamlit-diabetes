@@ -1,6 +1,5 @@
 --prefer-binary
-
-numpy==1.26.4
-pandas==2.2.2
+numpy==1.24.4
+pandas==2.1.4
 streamlit
 scikit-learn
